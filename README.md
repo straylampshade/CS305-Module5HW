@@ -1,6 +1,7 @@
 # CS305-Module5HW
 CS 305 Module 5 Homework
 
+
 This project focuses on prevenattive measures for IoT device attacks.
 
 Protect yourself from IoT device attacks in 4 steps.
@@ -11,3 +12,8 @@ Protect yourself from IoT device attacks in 4 steps.
 
 License Type: Academic Free License v3.0 
               afl-3.0 
+              
+              
+**Additional Module:**
+To prevent IoT device attacks, make sure your password is not "12345". 
+
